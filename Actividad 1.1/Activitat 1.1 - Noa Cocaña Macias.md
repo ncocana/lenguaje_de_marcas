@@ -1,14 +1,14 @@
 ﻿### Curriculum vitae
-![Foto de Alberto Prieto Espinosa](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Aprieto_2009.jpeg/330px-Aprieto_2009.jpeg)
-Nombre: **Alberto Prieto Espinosa**
-Fecha de nacimiento: 24/08/1945
-Dirección:
-_ETS de Ingenierías Informática y de Telecomunicación._
-_Universidad de Granada_
-_C/ Periodista Daniel Saucedo, s/n_
-_E-18071 GRANADA_
-Email: [\[email protected\]](about:invalid#zSoyz)
-Web: <https://icar.ugr.es/informacion/directorio-personal/alberto-prieto-espinosa/web/curriculum>
+![Foto de Alberto Prieto Espinosa](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Aprieto_2009.jpeg/330px-Aprieto_2009.jpeg)  
+Nombre: **Alberto Prieto Espinosa**  
+Fecha de nacimiento: 24/08/1945  
+Dirección:  
+_ETS de Ingenierías Informática y de Telecomunicación._  
+_Universidad de Granada_  
+_C/ Periodista Daniel Saucedo, s/n_  
+_E-18071 GRANADA_  
+Email: [\[email protected\]](about:invalid#zSoyz)  
+Web: <https://icar.ugr.es/informacion/directorio-personal/alberto-prieto-espinosa/web/curriculum>  
 ### Resumen
 ### Títulos académicos
 * Bachiller Superior en la Universidad de Salamanca; 1962
