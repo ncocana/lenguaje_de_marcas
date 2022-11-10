@@ -1,0 +1,21 @@
+html {
+    background-color: #f1e3bc;
+    background-image: url(./img/background.jpeg);
+    background-position: center; /* Centers the image */
+    background-attachment: fixed; /* Fija la imagen */
+    background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+body {
+    background: white;
+    color: rgb(0, 44, 167);
+    font-family: sans-serif;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 2em 2em 2em;
+}
+
+img {
+    max-width: 800px;
+}
