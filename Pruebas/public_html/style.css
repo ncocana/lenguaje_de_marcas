@@ -1,0 +1,36 @@
+body {
+    background-color: #001187;
+    color: white;
+    text-align: center;
+}
+
+a {
+    color: white
+}
+
+a:visited {
+    color: gray
+}
+
+a:hover {
+    color: goldenrod
+}
+
+.clock{
+    background: #131419;
+    height: 60px;
+    width: 400px; /*Manages the width of the black background*/
+    margin: auto; /*Centers the background*/
+    line-height: 60px;
+    text-align: center;
+    padding: 0 30px;
+    box-shadow: -3px -3px 7px rgba(255,255,255,0.05),
+                3px 3px 5px rgba(0,0,0,0.5);
+}
+
+.clock .display{
+    font-size: 30px;
+    color: cyan;
+    letter-spacing: 5px;
+    font-family: 'Orbitron', sans-serif;
+}
